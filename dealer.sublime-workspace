@@ -1,0 +1,2216 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"default",
+				"defaultValue"
+			],
+			[
+				"Key",
+				"KeyCounter"
+			],
+			[
+				"be",
+				"before	Before"
+			],
+			[
+				"expect",
+				"expect.to.equal"
+			],
+			[
+				"scrip",
+				"scriptAction"
+			],
+			[
+				"comman",
+				"commandList"
+			],
+			[
+				"fil",
+				"filterValue"
+			],
+			[
+				"filter",
+				"filterValue	(str)"
+			],
+			[
+				"sele",
+				"selectedOutputParameter"
+			],
+			[
+				"clia",
+				"cliActionService"
+			],
+			[
+				"comm",
+				"commandObj	{}"
+			],
+			[
+				"exe",
+				"execDir"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"dele",
+				"deleteScript"
+			],
+			[
+				"clo",
+				"closeBtnText"
+			],
+			[
+				"ng-mou",
+				"ng-mouseleave	AngularJS"
+			],
+			[
+				"ng-mo",
+				"ng-mouseover	AngularJS"
+			],
+			[
+				"command__",
+				"command__panel__script"
+			],
+			[
+				"ac",
+				"actionPackName"
+			],
+			[
+				"upload",
+				"uploadScript($event"
+			],
+			[
+				"get",
+				"getMatch"
+			],
+			[
+				"std",
+				"stdOutTxt"
+			],
+			[
+				"string",
+				"stringRE"
+			],
+			[
+				"err",
+				"errCond	[]"
+			],
+			[
+				"che",
+				"checkParameterType"
+			],
+			[
+				"parame",
+				"parameterName"
+			],
+			[
+				"selected",
+				"selectedParameter"
+			],
+			[
+				"con",
+				"conditions"
+			],
+			[
+				"remove",
+				"removeCondition"
+			],
+			[
+				"emp",
+				"emptyCondition"
+			],
+			[
+				"cli",
+				"cliAction"
+			],
+			[
+				"error",
+				"errorCondition"
+			],
+			[
+				"erro",
+				"errorCondition"
+			],
+			[
+				"out",
+				"outputParameterList"
+			],
+			[
+				"is",
+				"isUndefined"
+			],
+			[
+				"ra",
+				"rawOutputLocation"
+			],
+			[
+				"foc",
+				"focusArray"
+			],
+			[
+				"new",
+				"newCLI"
+			],
+			[
+				"actionPa",
+				"actionPackCategory"
+			],
+			[
+				"$ro",
+				"$routeParams"
+			],
+			[
+				"inpu",
+				"inputParamList"
+			],
+			[
+				"power",
+				"powerShellScript"
+			],
+			[
+				"raw",
+				"rawOutputExists"
+			],
+			[
+				"inputP",
+				"inputParamList"
+			],
+			[
+				"input",
+				"inputParamList"
+			],
+			[
+				"name",
+				"namesOutput"
+			],
+			[
+				"rea",
+				"realTime"
+			],
+			[
+				"names",
+				"namesInput"
+			],
+			[
+				"tes",
+				"testDir"
+			],
+			[
+				"command",
+				"commandMsg"
+			],
+			[
+				"set",
+				"setSize"
+			],
+			[
+				"env",
+				"envVariables"
+			],
+			[
+				"time",
+				"timeout"
+			],
+			[
+				"enV",
+				"envVariables"
+			],
+			[
+				"border-t",
+				"border-top-right-radius"
+			],
+			[
+				"search",
+				"searchOutput"
+			],
+			[
+				"sear",
+				"searchInput"
+			],
+			[
+				"nam",
+				"namesInput"
+			],
+			[
+				"selec",
+				"selectedParameter"
+			],
+			[
+				"scr",
+				"scriptActionCtrl"
+			],
+			[
+				"stepp",
+				"stepperdisabled"
+			],
+			[
+				"rdk",
+				"rdkFilters"
+			],
+			[
+				"border-ra",
+				"border-radius"
+			],
+			[
+				"c",
+				"c	color: #${1:000};"
+			],
+			[
+				"stepper_",
+				"stepper__buttons"
+			],
+			[
+				"vale",
+				"valuetostep"
+			],
+			[
+				"$wat",
+				"angular: $watchCollection"
+			],
+			[
+				"wi",
+				"wizard"
+			],
+			[
+				"res",
+				"response	(?)"
+			],
+			[
+				"result",
+				"resultMessage"
+			],
+			[
+				"action",
+				"actionPacks	(?)"
+			],
+			[
+				"copyTo",
+				"copyToAnother"
+			],
+			[
+				"actio",
+				"actionPack"
+			],
+			[
+				"actionP",
+				"actionPackName"
+			],
+			[
+				"acip",
+				"actionpack"
+			],
+			[
+				"current",
+				"currentAP"
+			],
+			[
+				"repea",
+				"repeated"
+			],
+			[
+				"curr",
+				"currActionPack"
+			],
+			[
+				"defa",
+				"defaultValues"
+			],
+			[
+				"us",
+				"userSetValue"
+			],
+			[
+				"array",
+				"arrayOption"
+			],
+			[
+				"$s",
+				"$scope"
+			],
+			[
+				"from",
+				"fromUpload"
+			],
+			[
+				"$wa",
+				"angular: $watch"
+			],
+			[
+				"scriptA",
+				"scriptActionName"
+			],
+			[
+				"tr",
+				"trailingDashes"
+			],
+			[
+				"str",
+				"stripTrailingDashes"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"ligt",
+				"lighten"
+			],
+			[
+				"categor",
+				"categoriesCollection"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"border-rad",
+				"border-top-right-radius"
+			],
+			[
+				"code",
+				"codeMirror__container"
+			],
+			[
+				"ng-in",
+				"ng-init	AngularJS"
+			],
+			[
+				"template",
+				"templateUrl"
+			],
+			[
+				"po",
+				"powerShellCommand"
+			],
+			[
+				"l",
+				"lib/"
+			],
+			[
+				"$tiem",
+				"$timeout	AngularJS"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"REST",
+				"RESTful"
+			],
+			[
+				"ge",
+				"getActions"
+			],
+			[
+				"sel",
+				"selectedActionPack"
+			],
+			[
+				"actionPack",
+				"actionPackService"
+			],
+			[
+				"descri",
+				"description"
+			],
+			[
+				"pla",
+				"platform"
+			],
+			[
+				"acti",
+				"activeTile	(?)"
+			],
+			[
+				"restAction",
+				"restActionCategory"
+			],
+			[
+				"fore",
+				"angular.forEach	AngularJS"
+			],
+			[
+				"para",
+				"scope.parameterList"
+			],
+			[
+				"focus",
+				"focusInput"
+			],
+			[
+				"ngDi",
+				"ngDir_timepicker	AngularJS"
+			],
+			[
+				"angu",
+				"angular.copy	AngularJS"
+			],
+			[
+				"ar",
+				"angular: removeData"
+			],
+			[
+				"$appl",
+				"$apply	AngularJS"
+			],
+			[
+				"curre",
+				"currentSubcat"
+			],
+			[
+				"$a",
+				"$scope.$watch"
+			],
+			[
+				"borde",
+				"border-top"
+			],
+			[
+				"subc",
+				"subcategories"
+			],
+			[
+				"f",
+				"angular.forEach	AngularJS"
+			],
+			[
+				"catego",
+				"categoriesCollection"
+			],
+			[
+				"cate",
+				"categoryNames"
+			],
+			[
+				"category",
+				"categoryNames"
+			],
+			[
+				"rgba",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"darken",
+				"darken(@color, 10%)"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"li",
+				"lisp-i	list-style-position: inside;"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 1678,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test/index.html",
+			"settings":
+			{
+				"buffer_size": 776,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/scripts/main.js",
+			"settings":
+			{
+				"buffer_size": 108,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test/spec/test.js",
+			"settings":
+			{
+				"buffer_size": 399,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inde",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"git",
+				"GitGutter: Show Comparing Against"
+			],
+			[
+				"linte",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"edit ",
+				"Project: Edit"
+			],
+			[
+				"han",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"lin",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"modif",
+				"Modific: Revert modified part"
+			],
+			[
+				"modifi",
+				"Modific: Show original part"
+			],
+			[
+				"modi",
+				"Modific: Show uncommitted files"
+			],
+			[
+				"show",
+				"Modific: Show diff"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"intel",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"index",
+				"AngularJS: Rebuild Search Index"
+			],
+			[
+				"angua",
+				"AngularJS: Rebuild Search Index"
+			],
+			[
+				"isn",
+				"Package Control: Install Package"
+			],
+			[
+				"tern",
+				"Package Control: Enable Package"
+			],
+			[
+				"isnt",
+				"Package Control: Install Package"
+			],
+			[
+				"intsa",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"rett",
+				"HTMLPrettify"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"con",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"conv",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"pre",
+				"HTMLPrettify"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"pretti",
+				"HTMLPrettify"
+			],
+			[
+				"gutt",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"gut",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"gutter",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"idio",
+				"Snippet: Idiomatic CSS - Basic Comment"
+			],
+			[
+				"view",
+				"View In Browser"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"htmlpr",
+				"HTMLPrettify"
+			],
+			[
+				"idi",
+				"Snippet: Idiomatic CSS - Sub-Section Comment Block"
+			],
+			[
+				"brow",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"oo",
+				"Snippet: Object Method"
+			],
+			[
+				"obj",
+				"Snippet: Object key — key: \"value\""
+			],
+			[
+				"jaca",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"aut",
+				"Autoprefix CSS"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"comb",
+				"Sort via CSScomb"
+			],
+			[
+				"edi",
+				"Project: Edit"
+			],
+			[
+				"pro",
+				"Project: Edit"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"ejs",
+				"Set Syntax: EJS (<% and %>)"
+			],
+			[
+				"ej",
+				"Set Syntax: EJS (<% and %>)"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"spac",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"v",
+				"View In Browser"
+			],
+			[
+				"vi",
+				"View In Browser"
+			],
+			[
+				"vie",
+				"View In Browser"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"bea",
+				"SassBeautify"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"handle",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"jq s",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"apa",
+				"Set Syntax: Apache Conf"
+			],
+			[
+				"be",
+				"SassBeautify"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"githu",
+				"GitHub Flavored Markdown: Preview"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"sc",
+				"Set Syntax: SCSS"
+			],
+			[
+				"lip",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"forma",
+				"Format Code"
+			],
+			[
+				"lis",
+				"List stylesheet variables"
+			],
+			[
+				"list",
+				"List stylesheet variables"
+			],
+			[
+				"sassb",
+				"SassBeautify"
+			],
+			[
+				"fun",
+				"Snippet: Anonymous Function"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"wrap",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"perl",
+				"Set Syntax: Perl"
+			],
+			[
+				"tra",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"paca",
+				"Package Control: Upgrade Package"
+			]
+		],
+		"width": 358.0
+	},
+	"console":
+	{
+		"height": 204.0,
+		"history":
+		[
+			"git",
+			"ls",
+			"clear"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jpablo/Sites/dealer/Gruntfile.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/scriptActionDirectives.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/serviceProxies/scriptActionService.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/wizardPages/scriptPages/scriptResults.html",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/wizardPages/scriptPages/scriptBoxResults.html",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/wizardPages/scriptPages/editScript.html",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/partials/confirmScriptUpload.html",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/partials/viewCliScript.html",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/wizardPages/cliPages/editOutputParameters.html",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/less/layout/action__parameters.less",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/less/main.less",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/serviceProxies/actionService.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/actionsList.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/lib/angular/angular-cookies.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/controllers/modalControllers.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/wizardPages/editInputParameters.html",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/cliActionDirectives.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/rdk.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/partials/editCLI.html",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/partials/editScript.html",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/partials/selectActionType.html",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/serviceProxies/settingsService.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/serviceProxies/cliActionService.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/wizardPages/cliPages/cliResults.html",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/controllers/cliActionController.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/wizardPages/cliPages/editScript.html",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/wizardPages/editCLIDetails.html",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/wizardPages/scriptPages/scriptDetails.html",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/wizardPages/scriptPages/scriptOputputParameters.html",
+		"/Users/jpablo/Library/Application Support/Sublime Text 3/Packages/EasyMotion/Default (OSX).sublime-keymap",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/actionPackDetail.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/actionPackDetail.html",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/less/layout/actionDetail.less",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/wizardPages/soapPages/soapDetails.html",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/serviceProxies/actionPackService.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/actionsList.html",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/actionsModal.html",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/lib/angular/i18n/angular-locale_de-at.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/directives.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/services/getMatchService.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/controllers/scriptActionController.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/.idea/src.iml",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/wizardPages/soapPages/soapResults.html",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/codeMirror.html",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/partials/commandModal.html",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/actionPackTile.html",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/wizardPages/soapPages/soapOutputParameters.html",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/less/layout/actionsTile.less",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/lib/angular/docs/partials/error/ngOptions",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/services/validationService.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/less/layout/action__command.less",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/less/base/angularAnimation.less",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/less/base/palette.less",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/arrayParameters.html",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/less/modules/modals.less",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/less/layout/action__general.less",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/lib/angular-file-upload/angular-file-upload.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/lib/angular/angular-animate.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/lib/angular/angular.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/newActionPackForm.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/newActionPackForm.html",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/partials/newActionType.html",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/less/layout/newActionType.less",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/controllers/controllers.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/fauxData/actionPacks.json",
+		"/Users/jpablo/Downloads/animate.css",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/lib/angular-file-upload/angular-file-upload.min.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/lib/angular/i18n/angular-locale_ar-ma.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/lib/angular/angular-animate.min.js.map",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/lib/angular/angular-animate.min.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/less/vendor/bootstrap/component-animations.less",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/lib/angular/i18n/angular-locale_id.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/lib/angular/i18n/angular-locale_nl.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/index.html",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/less/ie.less",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/less/layout/action__form.less",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/less/layout/restActionForm--restCall.less",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/soapActionDirectives.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/serviceProxies/soapActionService.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/controllers/soapActionController.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/less/modules/arrayParameters.less",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/searchActionPacks.html",
+		"/Users/jpablo/Library/Application Support/Sublime Text 3/Packages/Grasp/Default.sublime-keymap",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/lib/angular/docs/partials/api/ngSanitize.filter",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/lib/angular/i18n/angular-locale_nl-sx.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/lib/angular-file-upload/angular-file-upload-shim.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/lib/plugins/highlightRegex.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/lib/plugins/highlightRegex license.txt",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/services/formMetaDataService.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/less/modules/forms.less",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/controllers/restActionController.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/wizardPages/cliPages/editResults.html",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/wizardPages/editOutputParameters.html",
+		"/Users/jpablo/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/partials/editSOAP.html",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/partials/editREST.html",
+		"/Users/jpablo/Projects/CA RDK/cardk.sublime-project",
+		"/Users/jpablo/Library/Application Support/Sublime Text 3/Packages/User/Handlebars.sublime-settings",
+		"/Users/jpablo/Library/Application Support/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/wizardPages/cliPages/editInputParameters.html",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/wizardPages/restfulPages/editRESTDetails.html",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/wizardPages/editResults.html",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/less/base/firefox-fix.less",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/wizardPages/restfulPages/restfulOutputParameters.html",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/wizardPages/restfulPages/restCall.html",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/less/layout/action__results.less",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/less/layout/cliActionForm--parameters.less",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/less/vendor/bootstrap/scaffolding.less",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/css/main.css",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/css/ie.css",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/less/layout/global.less",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/less/modules/codemirror.less",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/less/modules/stepper.less",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/partials/main.html",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/lib/angular/i18n/angular-locale_ro-ro.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/lib/angular/angular-resource.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/less/layout/cliActionForm.less",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/less/layout/editAction.less",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/stepper.html",
+		"/usr/local/Cellar/tomcat/7.0.50/libexec/logs/RDKServer.log",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/lib/angular/i18n/angular-locale_no.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/lib/angular/i18n/angular-locale_ar-ye.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/setPath.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/setPath.html",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/filters/rdkFilters.js",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/partials/copyActionModal.html",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/less/vendor/bootstrap/modals.less",
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/partials/moveActionModal.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 174.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"setDetails",
+			"/directives",
+			"upload",
+			"dele",
+			"selectedOutputParameter",
+			"firstExec",
+			"executeMatch",
+			"getMatchService",
+			"scope.selectedParameter",
+			"executeMatch",
+			"getMatchService",
+			"outputParameterList",
+			"commandMSg",
+			"resiz",
+			"rror",
+			"cliAction.",
+			"output",
+			"Output",
+			"size-fix",
+			"selectParameter",
+			"commandMsg",
+			"Execute",
+			"execute",
+			"scripts",
+			"waitForFinish",
+			"wait",
+			"waitForProcess",
+			"waitForFinish",
+			"waitForProcess",
+			"$($file.currentTarget)[0].files[0]",
+			",",
+			"actionName",
+			"selectfile",
+			"openPanel",
+			" ng-change=\"collapseThePanelsAgain()\">",
+			"colla",
+			"1",
+			"showFirst",
+			"executeMat",
+			"getMatchService",
+			"getMatch",
+			"flash is required",
+			"Out",
+			"waitforfini",
+			"cough",
+			"cliActionComplete",
+			"value",
+			"condition.type",
+			"condition.parameter",
+			"parList",
+			"condition.param.type",
+			"selectedParameter",
+			"checkType",
+			"cliAction.outputParameterList",
+			"outputParameterList",
+			"outputParamList",
+			"cliAction.outputParameterList",
+			"parList",
+			"box",
+			"setResults",
+			"errorConditionList",
+			"notNewCli",
+			"input",
+			"outputParameterList",
+			"In",
+			"outputParameterList",
+			"inputParametersList",
+			"cliActionCtrl",
+			"addParameter",
+			"selectedParameter",
+			"parameterList",
+			"ParameterList",
+			"parameterList",
+			"newParameterName",
+			"newInputParameterName",
+			"newParameterName",
+			"parameterList",
+			"data.action",
+			"focusEnum",
+			"inputParameterList",
+			"arrayOption",
+			"selectedParameter",
+			"selectParameter",
+			"scriptActionCtrl",
+			"parameterList",
+			"selectedParameter",
+			"$routeParams.new",
+			"$routeParams.category",
+			"$scope.currentActionPackName",
+			"category",
+			"description",
+			"name",
+			"data",
+			"getData",
+			"osType",
+			"cli__parameters__form__group",
+			"cli__parameters--output",
+			"action__main__icon ",
+			".action__main__icon ",
+			"action__main__form__button",
+			"action__main__actions",
+			"cli__parameters-list",
+			"cli__parameters__enumOptions",
+			"script.envVariables",
+			"location",
+			"setCommands",
+			"commandList",
+			"powershellcomm",
+			"checkrepe",
+			"checkRepeated",
+			"addpa",
+			"In",
+			"var",
+			"checkRepeated",
+			"executeCommand",
+			"command",
+			"params",
+			"powers",
+			"codemirr",
+			"consoleContainer",
+			"block",
+			"label",
+			"bbb",
+			"3px",
+			"0",
+			"});\n",
+			"vars",
+			"command.execDir"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"parameters__form-group",
+			"parameters--output",
+			"parameters__list",
+			"array-parameters",
+			"trailingCharacters",
+			"box-sizing: border-box;\n-moz-box-sizing: border-box;",
+			"&reg;",
+			"$blue",
+			".leftColumnContent{\n				/*@editable*/ color:#505050;\n				/*@editable*/ font-family:Helvetica;\n				/*@editable*/ font-size:16px;",
+			"<table class=\"footer-wrap\">\n	<tr>\n		<td class=\"container\">",
+			"/site/templates/",
+			"site/templates/",
+			"*|FNAME|*",
+			"<p>\n								2628 Walnut St. &nbsp;Denver, CO 80205\n							</p>",
+			"770px",
+			"2050",
+			"&amp;",
+			"retina_wood.jpg",
+			"paper_fibers.jpg",
+			"<?php bloginfo('stylesheet_directory'); ?>/styles/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1678,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1496,
+								1496
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1015.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "test/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 776,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								618,
+								618
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 414.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/scripts/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 108,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								108,
+								108
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close"
+							],
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "test/spec/test.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 399,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								65,
+								65
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 11.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.vcs":
+	{
+		"height": 164.0
+	},
+	"project": "dealer.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"clidir",
+				"directives/cliActionDirectives.js"
+			],
+			[
+				"script",
+				"controllers/scriptActionController.js"
+			],
+			[
+				"scr",
+				"directives/scriptActionDirectives.js"
+			],
+			[
+				"scrip",
+				"directives/wizardPages/scriptPages/scriptDetails.html"
+			],
+			[
+				"action__para",
+				"less/layout/action__parameters.less"
+			],
+			[
+				"ma",
+				"less/main.less"
+			],
+			[
+				"rdk",
+				"rdk.js"
+			],
+			[
+				"sele",
+				"partials/selectActionType.html"
+			],
+			[
+				"cli",
+				"directives/cliActionDirectives.js"
+			],
+			[
+				"editou",
+				"directives/wizardPages/cliPages/editOutputParameters.html"
+			],
+			[
+				"detai",
+				"directives/wizardPages/editCLIDetails.html"
+			],
+			[
+				"cliaction",
+				"controllers/cliActionController.js"
+			],
+			[
+				"clid",
+				"directives/cliActionDirectives.js"
+			],
+			[
+				"actionpa",
+				"serviceProxies/actionPackService.js"
+			],
+			[
+				"cliac",
+				"serviceProxies/cliActionService.js"
+			],
+			[
+				"action",
+				"serviceProxies/actionService.js"
+			],
+			[
+				"deta",
+				"directives/actionPackDetail.js"
+			],
+			[
+				"getmatchservice",
+				"services/getMatchService.js"
+			],
+			[
+				"direc",
+				"directives/directives.js"
+			],
+			[
+				"sript",
+				"directives/scriptActionDirectives.js"
+			],
+			[
+				"cliactio",
+				"serviceProxies/cliActionService.js"
+			],
+			[
+				"clia",
+				"controllers/cliActionController.js"
+			],
+			[
+				"code",
+				"directives/codeMirror.html"
+			],
+			[
+				"ot",
+				"directives/wizardPages/scriptPages/scriptOputputParameters.html"
+			],
+			[
+				"mo",
+				"controllers/modalControllers.js"
+			],
+			[
+				"comm",
+				"partials/commandModal.html"
+			],
+			[
+				"valida",
+				"services/validationService.js"
+			],
+			[
+				"anima",
+				"less/base/angularAnimation.less"
+			],
+			[
+				"scriptout",
+				"directives/wizardPages/scriptPages/scriptOputputParameters.html"
+			],
+			[
+				"modal",
+				"controllers/modalControllers.js"
+			],
+			[
+				"action__",
+				"less/layout/action__parameters.less"
+			],
+			[
+				"angular-file",
+				"lib/angular-file-upload/angular-file-upload.js"
+			],
+			[
+				"new",
+				"directives/newActionPackForm.html"
+			],
+			[
+				"newac",
+				"directives/newActionPackForm.js"
+			],
+			[
+				"contr",
+				"controllers/controllers.js"
+			],
+			[
+				"actip",
+				"serviceProxies/actionPackService.js"
+			],
+			[
+				"o",
+				"directives/wizardPages/scriptPages/scriptOputputParameters.html"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"outpu",
+				"directives/wizardPages/cliPages/editOutputParameters.html"
+			],
+			[
+				"settin",
+				"serviceProxies/settingsService.js"
+			],
+			[
+				"directive",
+				"directives/directives.js"
+			],
+			[
+				"actionde",
+				"less/layout/actionDetail.less"
+			],
+			[
+				"main",
+				"less/main.less"
+			],
+			[
+				"formm",
+				"services/formMetaDataService.js"
+			],
+			[
+				"scriptac",
+				"directives/scriptActionDirectives.js"
+			],
+			[
+				"edit",
+				"directives/wizardPages/editCLIDetails.html"
+			],
+			[
+				"clire",
+				"directives/wizardPages/cliPages/cliResults.html"
+			],
+			[
+				"editcli",
+				"directives/wizardPages/editCLIDetails.html"
+			],
+			[
+				"editre",
+				"directives/wizardPages/editResults.html"
+			],
+			[
+				"sc",
+				"directives/scriptActionDirectives.js"
+			],
+			[
+				"scipt",
+				"controllers/scriptActionController.js"
+			],
+			[
+				"input",
+				"directives/wizardPages/editInputParameters.html"
+			],
+			[
+				"array",
+				"directives/arrayParameters.html"
+			],
+			[
+				"editi",
+				"directives/wizardPages/editInputParameters.html"
+			],
+			[
+				"para",
+				"less/layout/cliActionForm--parameters.less"
+			],
+			[
+				"command",
+				"partials/commandModal.html"
+			],
+			[
+				"modals",
+				"less/modules/modals.less"
+			],
+			[
+				"editca",
+				"less/layout/editAction.less"
+			],
+			[
+				"steppe",
+				"directives/stepper.html"
+			],
+			[
+				"form",
+				"less/modules/forms.less"
+			],
+			[
+				"clipa",
+				"less/layout/cliActionForm--parameters.less"
+			],
+			[
+				"step",
+				"directives/stepper.html"
+			],
+			[
+				"cl",
+				"less/layout/cliActionForm--parameters.less"
+			],
+			[
+				"editac",
+				"less/layout/editAction.less"
+			],
+			[
+				"cliact",
+				"less/layout/cliActionForm.less"
+			],
+			[
+				"com",
+				"partials/commandModal.html"
+			],
+			[
+				"moda",
+				"less/modules/modals.less"
+			],
+			[
+				"inpt",
+				"directives/wizardPages/editInputParameters.html"
+			],
+			[
+				"mod",
+				"controllers/modalControllers.js"
+			],
+			[
+				"comma",
+				"partials/commandModal.html"
+			],
+			[
+				"pa",
+				"less/base/palette.less"
+			],
+			[
+				"soapd",
+				"directives/wizardPages/soapPages/soapDetails.html"
+			],
+			[
+				"soap",
+				"controllers/soapActionController.js"
+			],
+			[
+				"restd",
+				"directives/wizardPages/restfulPages/editRESTDetails.html"
+			],
+			[
+				"rest",
+				"controllers/restActionController.js"
+			],
+			[
+				"scriptde",
+				"directives/wizardPages/scriptPages/scriptDetails.html"
+			],
+			[
+				"so",
+				"serviceProxies/soapActionService.js"
+			],
+			[
+				"copy",
+				"partials/copyActionModal.html"
+			],
+			[
+				"controllers",
+				"controllers/controllers.js"
+			],
+			[
+				"move",
+				"partials/moveActionModal.html"
+			],
+			[
+				"movea",
+				"partials/moveActionModal.html"
+			],
+			[
+				"actionsmo",
+				"directives/actionsModal.html"
+			],
+			[
+				"cop",
+				"partials/copyActionModal.html"
+			],
+			[
+				"acti",
+				"serviceProxies/actionService.js"
+			],
+			[
+				"button",
+				"less/modules/buttons.less"
+			],
+			[
+				"mixins",
+				"less/base/mixins.less"
+			],
+			[
+				"contro",
+				"controllers/controllers.js"
+			],
+			[
+				"actionpackser",
+				"serviceProxies/actionPackService.js"
+			],
+			[
+				"actio",
+				"directives/actionsList.js"
+			],
+			[
+				"actionl",
+				"directives/actionsList.html"
+			],
+			[
+				"actiondeta",
+				"less/layout/actionDetail.less"
+			],
+			[
+				"scriptbox",
+				"directives/wizardPages/scriptPages/scriptBoxResults.html"
+			],
+			[
+				"resul",
+				"directives/wizardPages/scriptPages/scriptResults.html"
+			],
+			[
+				"det",
+				"directives/actionPackDetail.js"
+			],
+			[
+				"prom",
+				"partials/promptModal.html"
+			],
+			[
+				"actinpa",
+				"directives/actionPackDetail.js"
+			],
+			[
+				"glyph",
+				"less/vendor/bootstrap/glyphicons.less"
+			],
+			[
+				"restactio",
+				"less/layout/restActionForm--restCall.less"
+			],
+			[
+				"actionlis",
+				"directives/actionsList.html"
+			],
+			[
+				"actionser",
+				"serviceProxies/actionService.js"
+			],
+			[
+				"scription",
+				"serviceProxies/scriptActionService.js"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"sscriptde",
+				"directives/wizardPages/scriptPages/scriptDetails.html"
+			],
+			[
+				"f",
+				"less/modules/forms.less"
+			],
+			[
+				"search",
+				"directives/searchActionPacks.js"
+			],
+			[
+				"con",
+				"controllers/controllers.js"
+			],
+			[
+				"direct",
+				"directives/directives.js"
+			],
+			[
+				"ie",
+				"less/ie.less"
+			],
+			[
+				"forms",
+				"less/modules/forms.less"
+			],
+			[
+				"editactio",
+				"less/layout/editAction.less"
+			],
+			[
+				"pal",
+				"less/base/palette.less"
+			],
+			[
+				"clic",
+				"controllers/cliActionController.js"
+			],
+			[
+				"glyp",
+				"less/vendor/bootstrap/glyphicons.less"
+			],
+			[
+				"palett",
+				"less/base/palette.less"
+			],
+			[
+				"resto",
+				"directives/wizardPages/restfulPages/restfulOutputParameters.html"
+			],
+			[
+				"palet",
+				"less/base/palette.less"
+			],
+			[
+				"pale",
+				"less/base/palette.less"
+			],
+			[
+				"main.l",
+				"less/main.less"
+			],
+			[
+				"searcha",
+				"directives/searchActionPacks.js"
+			],
+			[
+				"scriot",
+				"directives/scriptActionDirectives.js"
+			],
+			[
+				"sopa",
+				"directives/wizardPages/soapPages/soapOutputParameters.html"
+			],
+			[
+				"restfu",
+				"directives/wizardPages/restfulPages/restfulOutputParameters.html"
+			],
+			[
+				"soa",
+				"directives/soapActionDirectives.js"
+			],
+			[
+				"actin",
+				"directives/actionPackDetail.js"
+			],
+			[
+				"cont",
+				"controllers/controllers.js"
+			],
+			[
+				"sett",
+				"serviceProxies/settingsService.js"
+			],
+			[
+				"actionpack",
+				"serviceProxies/actionPackService.js"
+			],
+			[
+				"butt",
+				"less/modules/buttons.less"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Sites/bid-windows/bid-windows.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 248.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

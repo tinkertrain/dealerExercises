@@ -1,0 +1,47 @@
+node_modules
+dist
+.tmp
+.sass-cache
+app/bower_components
+test/bower_components
+
+### Bower ###
+bower_components
+
+
+### Node ###
+lib-cov
+lcov.info
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+build
+.grunt
+
+node_modules
+
+
+### Yeoman ###
+node_modules/
+bower_components/
+*.log
+
+build/
+dist/
+
+
+### SASS ###
+### Sass Ignores - "Sassy CSS" http://sass-lang.com/
+*.sass-cache
+
+
+### Compass ###
+.sass-cache
