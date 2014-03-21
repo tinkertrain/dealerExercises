@@ -20,8 +20,8 @@ var kc = (function() {
 
   kc.button.addEventListener("click", function( event ) {
       var textAreaValue = kc.textArea.value;
-      kc.textArea.value = textAreaValue;
-      console.log(kc.textArea.value);
+
+      kc.textAreaArray = textAreaValue.match(/[^\r\n]+/g);
     }, false);
 
   // expose the object

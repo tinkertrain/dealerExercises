@@ -25,11 +25,11 @@
 
     describe('The count button', function () {
       beforeEach(function () {
-        kc.textArea.value = 'hello';
         kc.button.click();
       });
-      it('should retrieve the value of the textarea', function() {
-        expect(kc.textArea.value).to.equal('hello');
+
+      it('should convert the textarea value into an array in which each line is an item of it', function (done) {
+        expect(kc.textAreaArray).to.be.an('Array');
       });
     });
   });
