@@ -9,10 +9,15 @@
 <body>
     <!-- To test the DOM -->
     <section class="exercise exercise__textarea">
-        <h2>Exercise 1: key counts</h2>
-        <label for="keyCounts">Key Counts</label>
-        <textarea name="keyCounts" id="keyCounts" cols="30" rows="10"></textarea>
-        <button>Count!</button>
+        <h2>Exercise 1</h2>
+        <div class="column">
+            <label for="keyCounts">Key Counts</label>
+            <textarea name="keyCounts" id="keyCounts" cols="30" rows="10"></textarea>
+            <button>Count!</button>
+        </div>
+        <div class="column">
+            <ul class="exercise__output"></ul>
+        </div>
     </section>
     <div id="mocha"></div>
     <script src="bower_components/mocha/mocha.js"></script>

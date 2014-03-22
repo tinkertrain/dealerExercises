@@ -48,6 +48,9 @@
         expect(kc.parsedObj[1].count).to.equal(8);
       });
 
+      it('should display the results in the output area', function () {
+        expect(kc.outputArea.innerHTML).to.equal('<li>The total for John is 6</li><li>The total for Jane is 8</li>');
+      });
     });
   });
 })();
