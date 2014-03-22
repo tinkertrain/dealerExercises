@@ -43,6 +43,11 @@
         assert.isNumber(kc.textAreaObjs[0].count, "Count is an integer");
       });
 
+      it('should parse the objects array and find duplicated keys and sum its count value', function () {
+        expect(kc.parsedObj[0].count).to.equal(6);
+        expect(kc.parsedObj[1].count).to.equal(8);
+      });
+
     });
   });
 })();

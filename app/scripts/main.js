@@ -47,6 +47,46 @@ var kc = (function() {
     return arrayOfObjs;
   };
 
+  // Method to parse an array, find duplicates, sum their count and consolidate
+  KeyCounter.prototype.consolidateArray = function(arrObjs) {
+    var consolidatedArray = [];
+    var consolidatedArray = [];
+    var keys = [];
+    var tempObj = {};
+    var key;
+
+    arrObjs.forEach(function(obj, index) {
+
+      if(index === 0) {
+        consolidatedArray.push(
+          {
+            key: obj.key,
+            count: obj.count
+          });
+        keys.push(obj.key);
+      }
+      else {
+        console.log(index);
+        console.log(consolidatedArray);
+        if(keys.indexOf(obj.key) === -1) {
+          consolidatedArray.push({
+            key: obj.key,
+            count: obj.count
+          });
+          keys.push(obj.key);
+        }
+        else {
+          consolidatedArray.forEach(function(val) {
+            if(val.key === obj.key) {
+              val.count += obj.count
+;            }
+          });
+        }
+      }
+    });
+    return consolidatedArray;
+  };
+
 
   // Make an instance of the object
   var kc = new KeyCounter(kcTextArea, kcButton);
@@ -59,6 +99,7 @@ var kc = (function() {
       kc.textAreaArray = kc.splitLines(kc.textArea.value);
       kc.textAreaObjs = kc.convertIntoObjs(kc.textAreaArray);
       console.log(kc.textAreaObjs);
+      kc.parsedObj = kc.consolidateArray(kc.textAreaObjs);
     }, false);
 
   // expose the object
