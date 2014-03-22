@@ -39,8 +39,8 @@ var kc = (function() {
     arr.forEach(function(value) {
         tempArr = value.split(',');
         tempObj = {
-          name: tempArr[0],
-          key: tempArr[1]
+          key: tempArr[0],
+          count: tempArr[1]
         };
         arrayOfObjs.push(tempObj);
       });

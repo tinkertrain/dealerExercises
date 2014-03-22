@@ -34,9 +34,13 @@
         expect(testArray).to.be.true;
       });
 
-      it('should convert each item of the resulting array into an array of objects with properties name and key', function () {
-        expect(kc.textAreaObjs[0].hasOwnProperty('name')).to.be.true;
+      it('should convert each item of the resulting array into an array of objects with properties key and count', function () {
+        expect(kc.textAreaObjs[0].hasOwnProperty('count')).to.be.true;
         expect(kc.textAreaObjs[0].hasOwnProperty('key')).to.be.true;
+      });
+
+      it('should ', function () {
+
       });
 
     });
