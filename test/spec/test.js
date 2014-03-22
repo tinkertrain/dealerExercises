@@ -24,13 +24,17 @@
     });
 
     describe('The count button', function () {
+      var testArray;
       beforeEach(function () {
         kc.button.click();
+        testArray = utilitiesKC.isArray(kc.textAreaArray);
       });
 
-      it('should convert the textarea value into an array in which each line is an item of it', function (done) {
-        expect(kc.textAreaArray).to.be.an('Array');
+      it('should convert the textarea value into an array in which each line is an item of it', function () {
+        console.log(testArray);
+        expect(testArray).to.be.true;
       });
+
     });
   });
 })();
