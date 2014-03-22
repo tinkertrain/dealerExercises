@@ -1,3 +1,18 @@
+var utilitiesKC = (function(){
+  'use strict';
+  return {
+    isArray: function(obj) {
+      if (obj instanceof Array) {
+        return true;
+      } else {
+        return false;
+      }
+    }
+  };
+})();
+
+console.log(utilitiesKC.isArray([]));
+
 // Namespace exercise 1: kc
 var kc = (function() {
   'use strict';
