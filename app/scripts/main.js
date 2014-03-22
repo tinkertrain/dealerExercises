@@ -25,6 +25,11 @@ var kc = (function() {
       this.textArea = textarea;
       this.button = button;
   };
+
+  // Method to split lines of the textarea and ocnvert into an array
+  KeyCounter.prototype.splitLines = function(str) {
+    return str.match(/[^\r\n]+/g);
+  };
   // Make an instance of the object
   var kc = new KeyCounter(kcTextArea, kcButton);
 
@@ -32,14 +37,11 @@ var kc = (function() {
   kc.textArea.value = kc.defaultValue;
 
   kc.button.addEventListener("click", function( event ) {
-      var textAreaValue = kc.textArea.value;
       var tempArr = [];
       var tempObj = {};
 
-      kc.textAreaArray = textAreaValue.match(/[^\r\n]+/g);
+      kc.textAreaArray = kc.splitLines(kc.textArea.value);
       kc.textAreaObjs = [];
-
-      console.log(kc.textAreaArray);
 
       kc.textAreaArray.forEach(function(value) {
         tempArr = value.split(',');
