@@ -31,8 +31,12 @@
       });
 
       it('should convert the textarea value into an array in which each line is an item of it', function () {
-        console.log(testArray);
         expect(testArray).to.be.true;
+      });
+
+      it('should convert each item of the resulting array into an array of objects with properties name and key', function () {
+        expect(kc.textAreaObjs[0].hasOwnProperty('name')).to.be.true;
+        expect(kc.textAreaObjs[0].hasOwnProperty('key')).to.be.true;
       });
 
     });

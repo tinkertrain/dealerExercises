@@ -11,8 +11,6 @@ var utilitiesKC = (function(){
   };
 })();
 
-console.log(utilitiesKC.isArray([]));
-
 // Namespace exercise 1: kc
 var kc = (function() {
   'use strict';
@@ -35,8 +33,23 @@ var kc = (function() {
 
   kc.button.addEventListener("click", function( event ) {
       var textAreaValue = kc.textArea.value;
+      var tempArr = [];
+      var tempObj = {};
 
       kc.textAreaArray = textAreaValue.match(/[^\r\n]+/g);
+      kc.textAreaObjs = [];
+
+      console.log(kc.textAreaArray);
+
+      kc.textAreaArray.forEach(function(value) {
+        tempArr = value.split(',');
+        tempObj = {
+          name: tempArr[0],
+          key: tempArr[1]
+        };
+        kc.textAreaObjs.push(tempObj);
+      });
+      console.log(kc.textAreaObjs);
     }, false);
 
   // expose the object
