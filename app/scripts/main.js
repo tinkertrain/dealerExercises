@@ -30,6 +30,24 @@ var kc = (function() {
   KeyCounter.prototype.splitLines = function(str) {
     return str.match(/[^\r\n]+/g);
   };
+
+  // Method to convert the array of strings into an array of objects with properties name and key
+  KeyCounter.prototype.convertIntoObjs = function(arr) {
+    var tempArr = [];
+    var tempObj = {};
+    var arrayOfObjs = [];
+    arr.forEach(function(value) {
+        tempArr = value.split(',');
+        tempObj = {
+          name: tempArr[0],
+          key: tempArr[1]
+        };
+        arrayOfObjs.push(tempObj);
+      });
+    return arrayOfObjs;
+  };
+
+
   // Make an instance of the object
   var kc = new KeyCounter(kcTextArea, kcButton);
 
@@ -37,21 +55,10 @@ var kc = (function() {
   kc.textArea.value = kc.defaultValue;
 
   kc.button.addEventListener("click", function( event ) {
-      var tempArr = [];
-      var tempObj = {};
 
       kc.textAreaArray = kc.splitLines(kc.textArea.value);
-      kc.textAreaObjs = [];
+      kc.textAreaObjs = kc.convertIntoObjs(kc.textAreaArray);
 
-      kc.textAreaArray.forEach(function(value) {
-        tempArr = value.split(',');
-        tempObj = {
-          name: tempArr[0],
-          key: tempArr[1]
-        };
-        kc.textAreaObjs.push(tempObj);
-      });
-      console.log(kc.textAreaObjs);
     }, false);
 
   // expose the object
