@@ -40,7 +40,7 @@ var kc = (function() {
         tempArr = value.split(',');
         tempObj = {
           key: tempArr[0],
-          count: tempArr[1]
+          count: parseInt(tempArr[1], 10)
         };
         arrayOfObjs.push(tempObj);
       });
@@ -58,7 +58,7 @@ var kc = (function() {
 
       kc.textAreaArray = kc.splitLines(kc.textArea.value);
       kc.textAreaObjs = kc.convertIntoObjs(kc.textAreaArray);
-
+      console.log(kc.textAreaObjs);
     }, false);
 
   // expose the object

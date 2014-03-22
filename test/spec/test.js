@@ -39,8 +39,8 @@
         expect(kc.textAreaObjs[0].hasOwnProperty('key')).to.be.true;
       });
 
-      it('should ', function () {
-
+      it('should convert the count value to an integer', function () {
+        assert.isNumber(kc.textAreaObjs[0].count, "Count is an integer");
       });
 
     });
