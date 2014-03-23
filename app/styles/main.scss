@@ -1,9 +1,12 @@
 // bower:scss
 // endbower
 @import "../bower_components/normalize.scss/_normalize.scss";
+
 @import "base/_palette.scss";
 @import "base/_global.scss";
+
 @import "layout/_main.scss";
+
 @import "modules/_buttons.scss";
 @import "modules/_forms.scss";
 @import "modules/_results.scss";
