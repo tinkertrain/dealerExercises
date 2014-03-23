@@ -1,0 +1,22 @@
+button {
+    margin: 0 auto;
+    width: 100%;
+    border: 0;
+    border-radius: 2px;
+    padding: 0.25em 0;
+    background-color: $blue_medium;
+    color: white;
+    font-size: 1.5em;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-shadow: 1px 1px 0 darken($blue_medium, 20%);
+    &:hover {
+        background-color: lighten($blue_medium, 15%);
+    }
+    &:active {
+        background-color: darken($blue_medium, 15%);
+    }
+    &:focus {
+        outline: 2px solid lighten($blue_medium, 25%);
+    }
+}

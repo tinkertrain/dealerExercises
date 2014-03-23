@@ -4,5 +4,7 @@
   "dependencies": {
     "jquery": "~1.11.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "normalize.scss": "~2.2.0+normalize.2.1.3"
+  }
 }

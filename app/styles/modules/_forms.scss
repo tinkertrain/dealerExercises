@@ -1,0 +1,18 @@
+label, button {
+    display: block;
+}
+label {
+    margin-bottom: 1em;
+    font-weight: 700;
+    font-size: 1.17em;
+}
+textarea {
+    width: 100%;
+    border-radius: 3px;
+    padding: 0.5em;
+    margin-bottom: 1em;
+    border: 1px solid rgba($brown, 0.5);
+    &:focus {
+        outline: 2px solid lighten($blue_medium, 25%);
+    }
+}

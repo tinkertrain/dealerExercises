@@ -90,15 +90,23 @@ var kc = (function() {
   KeyCounter.prototype.displayResults = function(arr) {
     var results = [];
     var tempStr;
+    var notice = document.getElementsByClassName('notice')[0];
+    var errorFound = false;
+
     kc.outputArea.innerHTML = '';
     arr.forEach(function(item) {
       if(item.count) {
         kc.outputArea.innerHTML += '<li>The total for ' + item.key + ' is ' + item.count + '</li>';
       }
       else {
+        notice.classList.remove('hidden');
         kc.outputArea.innerHTML += '<li class="invalid">The total for ' + item.key + ' is ' + item.count + '</li>';
+        errorFound = true;
       }
     });
+    if(!errorFound) {
+      notice.classList.add('hidden');
+    }
   };
 
   // Make an instance of the object
