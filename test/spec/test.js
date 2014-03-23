@@ -52,5 +52,14 @@
         expect(kc.outputArea.innerHTML).to.equal('<li>The total for John is 6</li><li>The total for Jane is 8</li>');
       });
     });
+    describe('The results area', function() {
+      beforeEach(function () {
+          kc.textArea.value = 'John,2\nJane,3\nJohn,4\nJane,5\nred';
+          kc.button.click();
+        });
+      it('in the displayed results it should detect when a line is invalid', function () {
+        expect(kc.outputArea.innerHTML).to.equal('<li>The total for John is 6</li><li>The total for Jane is 8</li><li class="invalid">The total for red is NaN</li>');
+      });
+    })
   });
 })();

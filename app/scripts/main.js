@@ -92,9 +92,13 @@ var kc = (function() {
     var tempStr;
     kc.outputArea.innerHTML = '';
     arr.forEach(function(item) {
-      kc.outputArea.innerHTML += '<li>The total for ' + item.key + ' is ' + item.count + '</li>';
+      if(item.count) {
+        kc.outputArea.innerHTML += '<li>The total for ' + item.key + ' is ' + item.count + '</li>';
+      }
+      else {
+        kc.outputArea.innerHTML += '<li class="invalid">The total for ' + item.key + ' is ' + item.count + '</li>';
+      }
     });
-    console.log(kc.outputArea.innerHTML);
   };
 
   // Make an instance of the object
