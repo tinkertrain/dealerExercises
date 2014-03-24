@@ -20,7 +20,15 @@ var kc = (function() {
   var kcButton = document.getElementsByTagName('button')[0];
   var kcOutput = document.getElementsByClassName('exercise__output')[0];
 
-  // The Key Counter object
+  /**
+   * Creates an instance of KeyCounter.
+   *
+   * @constructor
+   * @this {kc}
+   * @param {DOM element} textarea The textarea element that holds the user input.
+   * @param {DOM element} button The button that executes the counting.
+   * @param {DOM element} outputArea The area that displays the results.
+   */
   var KeyCounter = function(textarea, button, outputArea) {
       this.defaultValue = 'John,2\nJane,3\nJohn,4\nJane,5';
       this.textArea = textarea;
@@ -28,12 +36,23 @@ var kc = (function() {
       this.outputArea = outputArea;
   };
 
-  // Method to split lines of the textarea and ocnvert into an array
+  /**
+   * Split lines of the textarea and convert into an array
+   *
+   * @param {string} str The string to split.
+   * @return {array} The string splitted into an array.
+   */
   KeyCounter.prototype.splitLines = function(str) {
     return str.match(/[^\r\n]+/g);
   };
 
-  // Method to convert the array of strings into an array of objects with properties name and key
+  /**
+   * Convert the array of strings into an array of objects with properties name and key
+   *
+   * @param {array} arr The array to convert.
+   * @return {array} The array of objects.
+   */
+
   KeyCounter.prototype.convertIntoObjs = function(arr) {
     var tempArr = [];
     var tempObj = {};
@@ -49,7 +68,12 @@ var kc = (function() {
     return arrayOfObjs;
   };
 
-  // Method to parse an array, find duplicates, sum their count and consolidate
+  /**
+   * Parse an array, find duplicates, sum their count and consolidate
+   *
+   * @param {array} arrObjs The array to consolidate.
+   * @return {array} The array consolidated.
+   */
   KeyCounter.prototype.consolidateArray = function(arrObjs) {
     var consolidatedArray = [];
     var keys = [];
@@ -85,7 +109,11 @@ var kc = (function() {
     return consolidatedArray;
   };
 
-  // Method to display the results in the output area
+  /**
+   * Display the results in the output area
+   *
+   * @param {array} arrObjs The array consolidated.
+   */
   KeyCounter.prototype.displayResults = function(arr) {
     var results = [];
     var tempStr;
@@ -128,31 +156,61 @@ var kc = (function() {
 var palindrome = (function() {
   'use strict';
 
+  var originalInputPrepared;
+  var inputProcessed;
+
+  // Get necessary elements from the DOM
   var palUserInput = document.getElementById('userInput');
   var palPositive = document.getElementsByClassName('positive')[0];
   var palNegative = document.getElementsByClassName('negative')[0];
   var palResults = document.getElementsByClassName('exercise__palindrome__results')[0];
 
+
+  /**
+   * Creates an instance of PalindromeObject.
+   *
+   * @constructor
+   * @this {palindrome}
+   * @param {userInput} userInput The text input element that holds the user input.
+   */
   var PalindromeObject = function(userInput) {
     this.userInput = userInput.value;
     this.isPalindrome = false;
   };
 
+  /**
+   * Prepare the user input, strip non-alpha characters and convert to lowercase
+   *
+   * @param {string} str The user input.
+   * @return {string} The stripped lowercase input.
+   */
   PalindromeObject.prototype.prepareInput = function(str) {
     return str.replace(/[^a-zA-Z]/g, '').toLowerCase();
   };
 
+  /**
+   * Process the string, convert into an array, reverse and rejoin
+   *
+   * @param {string} str The user input prepared.
+   * @return {string} The string reversed.
+   */
   PalindromeObject.prototype.processInput = function(str) {
     return str.split('').reverse().join('');
   };
 
+  /**
+   * Check if the prepared string matches the reversed string
+   *
+   * @param {string} str1 The user input prepared.
+   * @param {string} str2 The user input reversed.
+   * @return {boolean} True if is the same, false if not.
+   */
   PalindromeObject.prototype.checkPalindrome = function(str1, str2) {
     return str1 === str2;
   };
 
+  // Make an instance of PalindromeObject
   var palindrome = new PalindromeObject(palUserInput);
-  var originalInputPrepared;
-  var inputProcessed;
 
   // Process the text input
 

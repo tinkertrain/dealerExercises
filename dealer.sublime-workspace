@@ -4,6 +4,126 @@
 		"selected_items":
 		[
 			[
+				"clas",
+				"classList"
+			],
+			[
+				"exer",
+				"exercise__palindrome"
+			],
+			[
+				"cla",
+				"classList"
+			],
+			[
+				"pal",
+				"palNegative"
+			],
+			[
+				"bo",
+				"bower_components/"
+			],
+			[
+				"pro",
+				"processInput"
+			],
+			[
+				"test",
+				"testStr"
+			],
+			[
+				"pr",
+				"processInput"
+			],
+			[
+				"prep",
+				"prepareInput"
+			],
+			[
+				"use",
+				"userInput"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"rever",
+				"reversed2"
+			],
+			[
+				"expec",
+				"expect.to.be.a"
+			],
+			[
+				"expe",
+				"expect.to.equal"
+			],
+			[
+				"expect",
+				"expect.to.match"
+			],
+			[
+				"inptu",
+				"inputToArray"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"Pa",
+				"PalindromeObject"
+			],
+			[
+				"it",
+				"it	It"
+			],
+			[
+				"desc",
+				"desc	BDD Describe"
+			],
+			[
+				"text",
+				"textAreaValue"
+			],
+			[
+				"te",
+				"textAreaArray"
+			],
+			[
+				"tobe",
+				"expect.to.be.an"
+			],
+			[
+				"befo",
+				"before	Before"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"exec",
+				"exercise"
+			],
+			[
+				"des",
+				"describe	Describe"
+			],
+			[
+				"de",
+				"defaultValue"
+			],
+			[
+				"before",
+				"beforeeach	Before Each"
+			],
+			[
+				"textRea",
+				"textArea"
+			],
+			[
 				"default",
 				"defaultValue"
 			],
@@ -14,10 +134,6 @@
 			[
 				"be",
 				"before	Before"
-			],
-			[
-				"expect",
-				"expect.to.equal"
 			],
 			[
 				"scrip",
@@ -364,10 +480,6 @@
 				"categoriesCollection"
 			],
 			[
-				"text",
-				"textarea"
-			],
-			[
 				"border-rad",
 				"border-top-right-radius"
 			],
@@ -402,136 +514,16 @@
 			[
 				"REST",
 				"RESTful"
-			],
-			[
-				"ge",
-				"getActions"
-			],
-			[
-				"sel",
-				"selectedActionPack"
-			],
-			[
-				"actionPack",
-				"actionPackService"
-			],
-			[
-				"descri",
-				"description"
-			],
-			[
-				"pla",
-				"platform"
-			],
-			[
-				"acti",
-				"activeTile	(?)"
-			],
-			[
-				"restAction",
-				"restActionCategory"
-			],
-			[
-				"fore",
-				"angular.forEach	AngularJS"
-			],
-			[
-				"para",
-				"scope.parameterList"
-			],
-			[
-				"focus",
-				"focusInput"
-			],
-			[
-				"ngDi",
-				"ngDir_timepicker	AngularJS"
-			],
-			[
-				"angu",
-				"angular.copy	AngularJS"
-			],
-			[
-				"ar",
-				"angular: removeData"
-			],
-			[
-				"$appl",
-				"$apply	AngularJS"
-			],
-			[
-				"curre",
-				"currentSubcat"
-			],
-			[
-				"$a",
-				"$scope.$watch"
-			],
-			[
-				"borde",
-				"border-top"
-			],
-			[
-				"subc",
-				"subcategories"
-			],
-			[
-				"f",
-				"angular.forEach	AngularJS"
-			],
-			[
-				"catego",
-				"categoriesCollection"
-			],
-			[
-				"cate",
-				"categoryNames"
-			],
-			[
-				"category",
-				"categoryNames"
-			],
-			[
-				"rgba",
-				"rgba(r,g,b,a)"
-			],
-			[
-				"box",
-				"box-shadow"
-			],
-			[
-				"border",
-				"border-bottom"
-			],
-			[
-				"darken",
-				"darken(@color, 10%)"
-			],
-			[
-				"tran",
-				"transparent"
-			],
-			[
-				"li",
-				"lisp-i	list-style-position: inside;"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "app/index.html",
-			"settings":
-			{
-				"buffer_size": 1678,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "test/index.html",
 			"settings":
 			{
-				"buffer_size": 776,
+				"buffer_size": 1585,
 				"line_ending": "Unix"
 			}
 		},
@@ -539,7 +531,39 @@
 			"file": "app/scripts/main.js",
 			"settings":
 			{
-				"buffer_size": 108,
+				"buffer_size": 5519,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/styles/modules/_forms.scss",
+			"settings":
+			{
+				"buffer_size": 781,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/styles/modules/_results.scss",
+			"settings":
+			{
+				"buffer_size": 418,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/styles/base/_global.scss",
+			"settings":
+			{
+				"buffer_size": 714,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 2858,
 				"line_ending": "Unix"
 			}
 		},
@@ -547,7 +571,7 @@
 			"file": "test/spec/test.js",
 			"settings":
 			{
-				"buffer_size": 399,
+				"buffer_size": 3550,
 				"line_ending": "Unix"
 			}
 		}
@@ -559,20 +583,40 @@
 		"selected_items":
 		[
 			[
-				"prett",
-				"HTMLPrettify"
+				"remo",
+				"Package Control: Remove Package"
 			],
 			[
-				"javas",
-				"Set Syntax: JavaScript"
+				"lin",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
 			],
 			[
 				"inst",
 				"Package Control: Install Package"
 			],
 			[
-				"remo",
+				"remov",
 				"Package Control: Remove Package"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
 			],
 			[
 				"install",
@@ -595,14 +639,6 @@
 				"SublimeLinter: Show All Errors"
 			],
 			[
-				"lint",
-				"SublimeLinter: Show All Errors"
-			],
-			[
-				"ins",
-				"Package Control: Install Package"
-			],
-			[
 				"edit ",
 				"Project: Edit"
 			],
@@ -617,14 +653,6 @@
 			[
 				"pret",
 				"HTMLPrettify"
-			],
-			[
-				"lin",
-				"SublimeLinter: Show All Errors"
-			],
-			[
-				"remove",
-				"Package Control: Remove Package"
 			],
 			[
 				"user",
@@ -681,10 +709,6 @@
 			[
 				"intsa",
 				"Package Control: Install Package"
-			],
-			[
-				"remov",
-				"Package Control: Remove Package"
 			],
 			[
 				"rett",
@@ -971,7 +995,7 @@
 				"Package Control: Upgrade Package"
 			]
 		],
-		"width": 358.0
+		"width": 440.0
 	},
 	"console":
 	{
@@ -994,6 +1018,12 @@
 	},
 	"file_history":
 	[
+		"/Users/jpablo/Sites/dealer/README.txt",
+		"/Users/jpablo/Sites/dealer/.gitignore",
+		"/Users/jpablo/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/jpablo/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/jpablo/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jpablo/Sites/dealer/test/index.html",
 		"/Users/jpablo/Sites/dealer/Gruntfile.js",
 		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/scriptActionDirectives.js",
 		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/serviceProxies/scriptActionService.js",
@@ -1087,7 +1117,6 @@
 		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/controllers/restActionController.js",
 		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/wizardPages/cliPages/editResults.html",
 		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/wizardPages/editOutputParameters.html",
-		"/Users/jpablo/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/partials/editSOAP.html",
 		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/partials/editREST.html",
 		"/Users/jpablo/Projects/CA RDK/cardk.sublime-project",
@@ -1116,16 +1145,11 @@
 		"/usr/local/Cellar/tomcat/7.0.50/libexec/logs/RDKServer.log",
 		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/lib/angular/i18n/angular-locale_no.js",
 		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/lib/angular/i18n/angular-locale_ar-ye.js",
-		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/setPath.js",
-		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/setPath.html",
-		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/filters/rdkFilters.js",
-		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/partials/copyActionModal.html",
-		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/less/vendor/bootstrap/modals.less",
-		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/partials/moveActionModal.html"
+		"/Users/jpablo/Sites/ca-rdk/RDK Client/src/directives/setPath.js"
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
@@ -1305,24 +1329,24 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "app/index.html",
+					"file": "test/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1678,
+						"buffer_size": 1585,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1496,
-								1496
+								481,
+								481
 							]
 						],
 						"settings":
@@ -1334,10 +1358,6 @@
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
@@ -1346,10 +1366,10 @@
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
@@ -1358,25 +1378,29 @@
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
-								"bh_tag_close",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close"
+								"bh_tag_close"
 							],
 							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1015.0,
+						"translation.y": 150.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
@@ -1384,93 +1408,19 @@
 				},
 				{
 					"buffer": 1,
-					"file": "test/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 776,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								618,
-								618
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close"
-							],
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 414.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "app/scripts/main.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 108,
+						"buffer_size": 5519,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								108,
-								108
+								4070,
+								4072
 							]
 						],
 						"settings":
@@ -1482,10 +1432,6 @@
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
@@ -1494,10 +1440,10 @@
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
@@ -1506,26 +1452,250 @@
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
-								"bh_tag_close",
+								"bh_tag_close"
+							],
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 4456.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/styles/modules/_forms.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 781,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								773,
+								773
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
-								"bh_square_close"
+								"bh_square_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close"
 							],
-							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 88.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/styles/modules/_results.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 418,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								235,
+								235
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close"
+							],
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/styles/base/_global.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 714,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								588,
+								588
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close"
+							],
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
 					"type": "text"
 				}
 			]
@@ -1535,20 +1705,20 @@
 			"sheets":
 			[
 				{
-					"buffer": 3,
-					"file": "test/spec/test.js",
+					"buffer": 5,
+					"file": "app/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 399,
+						"buffer_size": 2858,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								65,
-								65
+								2161,
+								2161
 							]
 						],
 						"settings":
@@ -1560,10 +1730,6 @@
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
@@ -1572,10 +1738,10 @@
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
@@ -1584,26 +1750,104 @@
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
-								"bh_tag_close",
+								"bh_tag_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1170.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "test/spec/test.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3550,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2631,
+								2631
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
-								"bh_square_close"
+								"bh_square_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close"
 							],
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 11.0,
+						"translation.y": 2467.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
