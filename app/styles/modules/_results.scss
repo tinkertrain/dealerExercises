@@ -1,3 +1,8 @@
+.exercise__output {
+  li:not(.invalid) {
+    color: darken($blue_medium, 15%);
+  }
+}
 .invalid {
     color: $red;
 }
@@ -7,4 +12,17 @@
     font-size: 0.75em;
     font-weight: 300;
     padding: 5px;
+}
+.exercise__palindrome__results {
+  margin-top: 2em;
+}
+.positive, .negative {
+  font-size: 2em;
+  font-weight: 300;
+}
+.positive {
+  color: $blue_medium;
+}
+.negative {
+  color: $red;
 }

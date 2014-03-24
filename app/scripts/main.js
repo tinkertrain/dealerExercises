@@ -52,7 +52,6 @@ var kc = (function() {
   // Method to parse an array, find duplicates, sum their count and consolidate
   KeyCounter.prototype.consolidateArray = function(arrObjs) {
     var consolidatedArray = [];
-    var consolidatedArray = [];
     var keys = [];
     var tempObj = {};
     var key;
@@ -115,7 +114,7 @@ var kc = (function() {
   // Fill the textarea with the default value
   kc.textArea.value = kc.defaultValue;
 
-  kc.button.addEventListener("click", function( event ) {
+  kc.button.addEventListener('click', function( event ) {
       kc.textAreaArray = kc.splitLines(kc.textArea.value);
       kc.textAreaObjs = kc.convertIntoObjs(kc.textAreaArray);
       kc.parsedObj = kc.consolidateArray(kc.textAreaObjs);
@@ -124,4 +123,66 @@ var kc = (function() {
 
   // expose the object
   return kc;
+})();
+
+var palindrome = (function() {
+  'use strict';
+
+  var palUserInput = document.getElementById('userInput');
+  var palPositive = document.getElementsByClassName('positive')[0];
+  var palNegative = document.getElementsByClassName('negative')[0];
+  var PalindromeObject = function(userInput) {
+    this.userInput = userInput.value;
+    this.isPalindrome = false;
+  };
+
+  PalindromeObject.prototype.prepareInput = function(str) {
+    return str.replace(/[^a-zA-Z]/g, '').toLowerCase();
+  };
+
+  PalindromeObject.prototype.processInput = function(str) {
+    return str.split('').reverse().join('');
+  };
+
+  PalindromeObject.prototype.checkPalindrome = function(str1, str2) {
+    return str1 === str2;
+  };
+
+  var palindrome = new PalindromeObject(palUserInput);
+  var originalInputPrepared;
+  var inputProcessed;
+
+  // Process the text input
+
+  palUserInput.addEventListener('keyup', function(evt) {
+    if(palUserInput.value !== '' && palUserInput.value.length > 1) {
+      palindrome.userInput = palUserInput.value;
+      originalInputPrepared = palindrome.prepareInput(palindrome.userInput);
+      inputProcessed = palindrome.processInput(originalInputPrepared);
+
+      if(palindrome.checkPalindrome(originalInputPrepared, inputProcessed)) {
+        palindrome.isPalindrome = true;
+      }
+      else {
+        palNegative.classList.remove('hidden');
+        palPositive.classList.add('hidden');
+        palindrome.isPalindrome = false;
+      }
+    }
+  });
+
+  // Watch the input and display results
+
+  watch(palindrome, 'isPalindrome', function() {
+    if(palindrome.isPalindrome) {
+      palNegative.classList.add('hidden');
+      palPositive.classList.remove('hidden');
+    }
+    else {
+      palNegative.classList.remove('hidden');
+      palPositive.classList.add('hidden');
+    }
+  });
+
+  return palindrome;
 })();

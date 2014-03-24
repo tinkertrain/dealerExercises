@@ -62,6 +62,38 @@
         expect(kc.outputArea.innerHTML).to.equal('<li>The total for John is 6</li><li>The total for Jane is 8</li><li class="invalid">The total for red is NaN</li>');
       });
 
-    })
+    });
   });
+
+describe('Exercise 2', function() {
+  describe('The palindrome object', function () {
+
+    var prepared;
+    var reversed;
+    var prepared2;
+    var reversed2;
+
+    beforeEach(function () {
+      palindrome.userInput = "Asfa A+ aF#@4";
+      prepared = palindrome.prepareInput(palindrome.userInput);
+      reversed = 'faaafsa';
+      prepared2 = palindrome.prepareInput('Anita lava la Tina');
+      reversed2 = palindrome.processInput(prepared2);
+    });
+
+    it('should discard non-alphanumeric characters from the string and to be lower cased', function () {
+      expect(palindrome.prepareInput(palindrome.userInput)).to.equal('asfaaaf');
+    });
+
+    it('should take the string conver it into an array, reverse it and rejoin it', function () {
+      expect(palindrome.processInput(prepared)).to.eql(reversed);
+    });
+
+    it('should compare the original input with the processed input and return true or false whether they are equal or not', function () {
+      expect(palindrome.checkPalindrome(prepared, reversed)).to.be.false;
+      expect(palindrome.checkPalindrome(prepared2, reversed2)).to.be.true;
+    });
+
+  });
+});
 })();

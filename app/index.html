@@ -32,7 +32,7 @@
     </header>
 
     <section class="exercise exercise__textarea">
-        <h2>Exercise 1</h2>
+        <h2>Exercise 1: Key Counter</h2>
         <div class="column">
             <label for="keyCounts">Key Counts</label>
             <textarea name="keyCounts" id="keyCounts" cols="30" rows="10"></textarea>
@@ -47,11 +47,23 @@
         </div>
     </section>
 
+    <section class="exercise exercise__palindrome">
+        <h2>Exercise 2: Palindrome checker</h2>
+        <label for="userInput">Write something:</label>
+        <input id="userInput" type="text">
+        <div class="exercise__palindrome__results">
+            <h3>Result</h3>
+            <p class="positive hidden">It&rsquo;s a palindrome!</p>
+            <p class="negative hidden">Not a palindrome</p>
+        </div>
+    </section>
+
     <footer>
         <p class="author">Author: Juan Pablo Lomeli Diaz</p>
     </footer>
 
     <!-- build:js({app,.tmp}) scripts/main.js -->
+    <script src="bower_components/watch/src/watch.js"></script>
     <script src="scripts/main.js"></script>
     <!-- endbuild -->
 </body>

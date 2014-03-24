@@ -16,3 +16,22 @@ textarea {
         outline: 2px solid lighten($blue_medium, 25%);
     }
 }
+
+.exercise__palindrome {
+    label, input {
+        display: inline-block;
+        vertical-align: middle;
+        margin: 0;
+        height: 37px;
+    }
+    label {
+        margin-right: 10px;
+        line-height: 37px;
+    }
+    input {
+        border: 1px solid rgba($brown, 0.5);
+        padding: 0.5em;
+        border-radius: 3px;
+        width: 70%;
+    }
+}
