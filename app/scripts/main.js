@@ -131,6 +131,8 @@ var palindrome = (function() {
   var palUserInput = document.getElementById('userInput');
   var palPositive = document.getElementsByClassName('positive')[0];
   var palNegative = document.getElementsByClassName('negative')[0];
+  var palResults = document.getElementsByClassName('exercise__palindrome__results')[0];
+
   var PalindromeObject = function(userInput) {
     this.userInput = userInput.value;
     this.isPalindrome = false;
@@ -156,6 +158,7 @@ var palindrome = (function() {
 
   palUserInput.addEventListener('keyup', function(evt) {
     if(palUserInput.value !== '' && palUserInput.value.length > 1) {
+      palResults.classList.remove('hidden');
       palindrome.userInput = palUserInput.value;
       originalInputPrepared = palindrome.prepareInput(palindrome.userInput);
       inputProcessed = palindrome.processInput(originalInputPrepared);
@@ -168,6 +171,9 @@ var palindrome = (function() {
         palPositive.classList.add('hidden');
         palindrome.isPalindrome = false;
       }
+    }
+    else {
+      palResults.classList.add('hidden');
     }
   });
 
