@@ -8,21 +8,24 @@
 </head>
 <body>
     <!-- To test the DOM -->
-    <section class="exercise exercise__textarea">
-        <h2>Exercise 1</h2>
-        <div class="column">
-            <label for="keyCounts">Key Counts</label>
-            <textarea name="keyCounts" id="keyCounts" cols="30" rows="10"></textarea>
-            <button>Count!</button>
-        </div>
-        <div class="column">
-            <h3>Results</h3>
-            <div class="notice hidden">There are lines written in an invalid form. It should be: "red,3"</div>
-            <ul class="exercise__output">
+    <div style="opacity:0; height:10px">
+        <section class="exercise exercise__textarea">
+            <h2>Exercise 1</h2>
+            <div class="column">
+                <label for="keyCounts">Key Counts</label>
+                <textarea name="keyCounts" id="keyCounts" cols="30" rows="10"></textarea>
+                <button>Count!</button>
+            </div>
+            <div class="column">
+                <h3>Results</h3>
+                <div class="notice hidden">There are lines written in an invalid form. It should be: "red,3"</div>
+                <ul class="exercise__output">
 
-            </ul>
-        </div>
-    </section>
+                </ul>
+            </div>
+        </section>
+        <input id="userInput" type="text">
+    </div>
     <div id="mocha"></div>
     <script src="bower_components/mocha/mocha.js"></script>
     <script>mocha.setup('bdd')</script>
@@ -34,6 +37,7 @@
     </script>
 
     <!-- include source files here... -->
+    <script src="../app/bower_components/watch/src/watch.js"></script>
     <script src="../app/scripts/main.js"></script>
     <!-- include spec files here... -->
     <script src="spec/test.js"></script>
